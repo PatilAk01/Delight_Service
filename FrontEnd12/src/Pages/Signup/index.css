@@ -1,0 +1,31 @@
+.mts {
+    padding-bottom: 400px;
+
+    /* background-color: cyan; */
+    /* background-image: url('/src/assets/login.jpeg'); */
+    background: url(https://wallpaperaccess.com/full/2975527.jpg);
+    background-size: cover;
+    height: 800px;
+    background-position: center;
+
+
+    color: white;
+
+
+    font-style: italic;
+
+}
+
+.sendbtn {
+    color: white;
+    background: blue;
+    width: 100%;
+    height: 50px;
+    border-radius: 5px;
+    outline: none;
+    border: none;
+    font-size: 17px;
+    cursor: pointer;
+    box-shadow: 3px 0 10px rgb(5, 0, 0);
+
+}
